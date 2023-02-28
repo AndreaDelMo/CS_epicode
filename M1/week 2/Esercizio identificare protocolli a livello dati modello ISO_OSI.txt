@@ -1,0 +1,8 @@
+I PROTOCOLLI UTILIZZANI NEL LIVELLO DATI SONO:
+
+IEEE 802  : Le principali funzioni del protocollo IEEE 802 includono il controllo degli accessi al mezzo, la gestione della sicurezza, la gestione della qualità del servizio e la gestione delle reti.
+
+IEEE 802.3: In sintesi, il protocollo IEEE 802.3 definisce le specifiche per la trasmissione dei dati tramite il protocollo Ethernet. 
+Le principali funzioni del protocollo IEEE 802.3 includono il controllo degli accessi al mezzo, la gestione della larghezza di banda, il controllo degli errori e la gestione delle collisioni, garantendo che i dati vengano trasmessi in modo affidabile e senza errori.
+
+IEE 802.11 : In sintesi, il protocollo IEEE 802.11 definisce le specifiche per le reti locali senza fili (WLAN) utilizzando la tecnologia Wi-Fi. Le principali funzioni del protocollo IEEE 802.11 includono il controllo degli accessi al mezzo, la gestione della larghezza di banda, il controllo degli errori, la sicurezza della rete e la gestione delle reti, garantendo che i dati vengano trasmessi in modo affidabile e sicuro su una rete Wi-Fi.
