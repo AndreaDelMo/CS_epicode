@@ -1,4 +1,4 @@
-I PROTOCOLLI UTILIZZANI NEL LIVELLO DATI SONO:
+I PROTOCOLLI UTILIZZATI NEL LIVELLO DATI SONO:
 
 IEEE 802  : Le principali funzioni del protocollo IEEE 802 includono il controllo degli accessi al mezzo, la gestione della sicurezza,
 la gestione della qualità del servizio e la gestione delle reti.
