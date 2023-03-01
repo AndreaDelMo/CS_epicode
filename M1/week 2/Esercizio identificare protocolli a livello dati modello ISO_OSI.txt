@@ -1,0 +1,23 @@
+ldentificare i protocolli utilizzati nel livello di collegamento dati del modello
+ISO/OSI e descrivere brevemente le loro funzioni:
+
+1.MAC (Media Access Control): si occupa di controllare laccesso al mezzo trasmissivo da
+parte dei dispositivi nella rete locale, utilizzando un indirizzo univoco per identificare ogni
+dispositivo.
+
+
+2. LLC (Logical Link Control): si occupa di gestire la logica dei collegamenti tra i dispositivi,
+fornendo un servizio di controllo di errore e di flusso tra i dispositivi connessi.
+
+
+
+3. PPP (Point-to-Point Protocol); utilizzato per connessioni punto-a-punto, si occupa di
+stabilire, configurare e mantenere una connessione affidabile tra due dispositivi
+
+
+4. ARP (Address Resolution Protocol): si occupa di associare un indirizzo IP a un indirizzo
+MAC, consentendo ai dispositivi di indirizzare correttamente i pacchetti di dati.
+
+
+5. RARP (Reverse Address Resolution Protocol): simile ad ARP, ma utilizzato per determinare
+l'indirizzo IP di un dispositivo a partire dal suo indirizzo MAC
